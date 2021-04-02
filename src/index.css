@@ -13,3 +13,20 @@ body {
   color: #fff;
   padding: 0 15rem;
 }
+
+.navbar .nav-sub {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .nav-sub .add {
+  background: limegreen;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
